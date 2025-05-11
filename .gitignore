@@ -1,0 +1,7 @@
+__pycache__
+.venv 
+
+.env 
+
+s3_documents/
+
